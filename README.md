@@ -1,0 +1,2 @@
+# samsung
+telefono
